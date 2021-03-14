@@ -13,6 +13,9 @@ I'm Jeremy from Indonesia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyvw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skills and Experience
+* ⚛️ React
+* :
 
 
 
