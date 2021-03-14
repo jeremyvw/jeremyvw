@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![jeremyvw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvw)](https://github.com/anuraghazra/github-readme-stats)
+[![jeremyvw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
