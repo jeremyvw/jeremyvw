@@ -10,7 +10,7 @@ I'm Jeremy from Indonesia
 </a> -->
 
 ## Skills and Experience
-* ![ReactJS](react-icon.png =50x50)
+* ![ReactJS](./react-icon.png =50x50)
 * :
 
 [![jeremyvw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
