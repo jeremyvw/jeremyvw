@@ -9,7 +9,7 @@ I'm Jeremy from Indonesia
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremyvw&repo=github-readme-stats&theme=tokyonight" />
 </a> -->
 
-[![Spotify](https://jeremyvw.vercel.app/api/spotify)](https://open.spotify.com/user/ln12wduv9e873lsjn2z0vw9i0)
+[![Spotify](https://spotify-github-ruddy.vercel.app/api/spotify)](https://open.spotify.com/user/ln12wduv9e873lsjn2z0vw9i0)
 
 ## Languages and Tools
 
