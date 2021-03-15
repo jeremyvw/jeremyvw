@@ -9,6 +9,10 @@ I'm Jeremy from Indonesia
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremyvw&repo=github-readme-stats&theme=tokyonight" />
 </a> -->
 
+## Languages
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=32 height=32>
+
 [![jeremyvw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyvw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
