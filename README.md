@@ -3,7 +3,6 @@
 I'm Jeremy from Indonesia. I'm a hardworking, motivated, enthusiastic person. I always strive to achieve the highest standard possible, at any given task and in any situation. I am accustomed to working in a challenging and fast-paced environment, particularly when dealing with multiple projects and priorities at the same time.
 
 - 📫 How to reach me: jeremyvw30@gmail.com
-- 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyvw&repo=github-readme-stats&theme=tokyonight" />
