@@ -1,6 +1,9 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jeremy</h1>
 <h3 align="center">I'm a passionate Web Developer from Indonesia.</h3>
 
+## 🙋‍♂️ About Me
 
 - 📫 How to reach me: jeremyvw30@gmail.com
 
@@ -33,6 +36,7 @@
   <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width=40 height=40>
 </div>
 
+<br />
 <p align="center">
     <a href="https://github.com/jeremyvw/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jeremy Vijay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyvw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -41,10 +45,11 @@
 
 ## 📊 My Github Stats
 
-[![jeremyvw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![jeremyvw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvw&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyvw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyvw&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!--
 **jeremyvw/jeremyvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
