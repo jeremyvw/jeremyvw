@@ -1,6 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jeremy</h1>
+<h3 align="center">I'm a passionate Web Developer from Indonesia.</h3>
 
-I'm Jeremy from Indonesia. I'm a hardworking, motivated, enthusiastic person. I always strive to achieve the highest standard possible, at any given task and in any situation. I am accustomed to working in a challenging and fast-paced environment, particularly when dealing with multiple projects and priorities at the same time.
 
 - 📫 How to reach me: jeremyvw30@gmail.com
 
@@ -15,7 +15,7 @@ I'm Jeremy from Indonesia. I'm a hardworking, motivated, enthusiastic person. I 
 
 [![Spotify](https://spotify-github-ruddy.vercel.app/api/spotify)](https://open.spotify.com/user/ln12wduv9e873lsjn2z0vw9i0)
 
-## Languages and Tools
+## 🚀 Languages and Tools
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width=40 height=40 alt="vscode">
@@ -33,7 +33,13 @@ I'm Jeremy from Indonesia. I'm a hardworking, motivated, enthusiastic person. I 
   <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width=40 height=40>
 </div>
 
-## Statistics
+<p align="center">
+    <a href="https://github.com/jeremyvw/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jeremy Vijay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyvw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
 
 [![jeremyvw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyvw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
