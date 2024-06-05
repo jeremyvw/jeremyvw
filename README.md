@@ -26,7 +26,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="50" height="50"/> </a>
-    <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50" height="50"/> </a>
+    <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="45" height="45"/> </a>
     <a href="https://grpc.io/" target="_blank"> <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="50" height="50"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="45" height="45"/> </a>
     <a href="https://www.elastic.co/" target="_blank"> <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" width="45" height="45"/> </a>
