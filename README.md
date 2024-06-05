@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h2>Hi there, I'm Jeremy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
-<p>I'm a passionate Web Developer from Indonesia.</p>
+<p>I'm a passionate Software Engineer from Indonesia.</p>
 
 ## 🙋‍♂️ About Me
 
